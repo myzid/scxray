@@ -1,5 +1,7 @@
-# AUTO SC XRAY ONLY
-- `Note !!! for multipath please change to Xray-core mod in menu script + reboot`
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=SCRIPT+XRAY+ONLY+FV+STORES" />
+</p>
+- `Note !!! Untuk multipath & multi port. ganti xray core dengan xray mod di menu script + reboot`
 # Required
 - DOMAIN (MUST)
 - DEBIAN 9/10
